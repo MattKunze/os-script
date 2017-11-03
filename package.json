@@ -3,6 +3,9 @@
   "version": "0.0.1-experimental-takoyaki",
   "description": "Operating system-specific npm scripts!",
   "main": "index.js",
+  "bin": {
+    "os-script": "index.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
