@@ -4,7 +4,7 @@
   "description": "Operating system-specific npm scripts!",
   "main": "index.js",
   "bin": {
-    "os-script": "index.js"
+    "os-script": "bin/os-script.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -13,7 +13,7 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/william-mcmillian/os-script.git"
+    "url": "git+https://github.com/wkilliam-mcmillian/os-script.git"
   },
   "keywords": [
     "os specific scripts",
